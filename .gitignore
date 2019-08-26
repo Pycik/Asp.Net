@@ -1,0 +1,9 @@
+#folder sass
+packages/
+.vs/
+BookShop/bin
+BookShop/Content
+BookShop/fonts
+BookShop/obj
+BookShop/Properties
+BookShop/Scripts
